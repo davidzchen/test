@@ -1,2 +1,4 @@
 /bazel-*
 *.swp
+.idea
+test.iml
